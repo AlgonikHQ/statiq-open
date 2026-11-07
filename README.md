@@ -43,3 +43,11 @@ This repo is about checking results, not copying picks.
 - Corrections log: https://90minwaffle.co.uk/corrections/
 
 18+ | Past results don't predict future ones | [BeGambleAware.org](https://www.begambleaware.org)
+
+<!-- PRICECHECK_20261107 -->
+## Independent price check
+
+Every week each priced tip is checked against independent bookmaker prices from [Football-Data.co.uk](https://www.football-data.co.uk/): the market average and the best price available, before kick-off and at the close.
+
+- **Impossible prices are removed.** If a recorded price is higher than the best price any bookmaker offered, the tip is excluded from units and ROI and listed with the reason, its original result and its price. On 7 November 2026 this removed 33 old tips, 32 of them from May 2026, before prices were timestamped. The record moved from 121-118, +27.44u, ROI +11.58% to 102-104, +14.08u, ROI +6.9%. The full note is on the site's Corrections page.
+- **Closing line value (CLV) is published.** CLV compares our price with the market's closing price. Staying above zero over time is the clearest sign of a real edge. It's shown on the tips page and updated weekly, whether it's good or bad.

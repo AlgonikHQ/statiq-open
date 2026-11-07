@@ -44,25 +44,25 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 84,2026-05-10,Go Ahead Eagles,PSV Eindhoven,DED,OVER25,pre_audit,,1.0,WIN,0.8,
 85,2026-05-10,Stade Rennais,Paris FC,FL1,OVER25,pre_audit,,1.0,WIN,0.8,
 86,2026-05-10,Paris Saint-Germain,Stade Brestois,FL1,OVER25,pre_audit,,1.0,LOSS,-1.0,
-87,2026-05-10,Parma,AS Roma,SA,AWAY_WIN,verified,2.55,1.0,WIN,1.55,
+87,2026-05-10,Parma,AS Roma,SA,AWAY_WIN,verified,2.55,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.57, market close 1.38 - originally WIN at 2.55"
 88,2026-05-11,1. FSV Mainz 05,1. FC Union Berlin,BL1,BTTS,verified,1.75,1.0,WIN,0.75,
-89,2026-05-11,SSC Napoli,Bologna,SA,UNDER25,verified,2.05,1.0,LOSS,-1.0,
+89,2026-05-11,SSC Napoli,Bologna,SA,UNDER25,verified,2.05,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.92, market close 1.87 - originally LOSS at 2.05"
 90,2026-05-11,Millwall,Hull City,ELC,HOME_WIN,verified,1.93,1.0,LOSS,-1.0,
-91,2026-05-11,Rio Ave,Sporting CP,PPL,AWAY_WIN,verified,1.62,1.0,WIN,0.62,
+91,2026-05-11,Rio Ave,Sporting CP,PPL,AWAY_WIN,verified,1.62,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.28, market close 1.18 - originally WIN at 1.62"
 92,2026-05-11,Benfica,Sporting Braga,PPL,OVER25,pre_audit,,1.0,WIN,0.8,
 93,2026-05-12,Celta Vigo,Levante UD,PD,AWAY_WIN,verified,2.5,1.0,WIN,1.5,
-94,2026-05-12,Dundee United,Livingston,SPL,HOME_WIN,verified,2.62,1.0,LOSS,-1.0,
-95,2026-05-12,Kilmarnock,Dundee FC,SPL,HOME_WIN,verified,3.6,1.0,WIN,2.6,
+94,2026-05-12,Dundee United,Livingston,SPL,HOME_WIN,verified,2.62,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.75, market close 1.68 - originally LOSS at 2.62"
+95,2026-05-12,Kilmarnock,Dundee FC,SPL,HOME_WIN,verified,3.6,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.95, market close 1.56 - originally WIN at 3.60"
 96,2026-05-12,Osasuna,Atlético Madrid,PD,HOME_WIN,verified,2.73,1.0,LOSS,-1.0,
 97,2026-05-13,Villarreal,Sevilla,PD,HOME_WIN,verified,1.93,1.0,LOSS,-1.0,
-98,2026-05-13,Manchester City,Crystal Palace,PL,HOME_WIN,verified,1.45,1.0,WIN,0.45,
+98,2026-05-13,Manchester City,Crystal Palace,PL,HOME_WIN,verified,1.45,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.33, market close 1.30 - originally WIN at 1.45"
 99,2026-05-13,RC Lens,Paris Saint-Germain,FL1,HOME_WIN,verified,1.9,1.0,LOSS,-1.0,
 100,2026-05-13,Rangers,Hibernian,SPL,HOME_WIN,verified,1.49,1.0,LOSS,-1.0,
 101,2026-05-13,Deportivo Alavés,FC Barcelona,PD,OVER25,pre_audit,,1.0,LOSS,-1.0,
-102,2026-05-13,Getafe,Mallorca,PD,AWAY_WIN,verified,6.25,1.0,LOSS,-1.0,
-103,2026-05-14,Real Madrid,Real Oviedo,PD,HOME_WIN,verified,1.36,1.0,WIN,0.36,
-104,2026-05-16,Casa Pia,Rio Ave,PPL,AWAY_WIN,verified,8.07,1.0,LOSS,-1.0,
-105,2026-05-16,Estoril Praia,Benfica,PPL,AWAY_WIN,verified,1.59,1.0,WIN,0.59,
+102,2026-05-13,Getafe,Mallorca,PD,AWAY_WIN,verified,6.25,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 3.70, market close 3.48 - originally LOSS at 6.25"
+103,2026-05-14,Real Madrid,Real Oviedo,PD,HOME_WIN,verified,1.36,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.26, market close 1.21 - originally WIN at 1.36"
+104,2026-05-16,Casa Pia,Rio Ave,PPL,AWAY_WIN,verified,8.07,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 5.00, market close 4.05 - originally LOSS at 8.07"
+105,2026-05-16,Estoril Praia,Benfica,PPL,AWAY_WIN,verified,1.59,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.35, market close 1.22 - originally WIN at 1.59"
 106,2026-05-16,FC Porto,Santa Clara,PPL,HOME_WIN,pre_audit,,1.0,WIN,0.85,
 107,2026-05-16,Famalicão,FC Alverca,PPL,HOME_WIN,pre_audit,,1.0,WIN,0.85,
 108,2026-05-16,Moreirense,AVS - Futebol SAD,PPL,AWAY_WIN,verified,2.55,1.0,LOSS,-1.0,
@@ -71,15 +71,15 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 111,2026-05-16,1. FC Union Berlin,FC Augsburg,BL1,AWAY_WIN,verified,2.45,1.0,LOSS,-1.0,
 112,2026-05-16,1. FC Heidenheim,1. FSV Mainz 05,BL1,AWAY_WIN,verified,2.45,1.0,WIN,1.45,
 113,2026-05-16,Eintracht Frankfurt,VfB Stuttgart,BL1,OVER25,pre_audit,,1.0,WIN,0.8,
-114,2026-05-17,AS Roma,Lazio,SA,HOME_WIN,verified,1.9,1.0,WIN,0.9,
+114,2026-05-17,AS Roma,Lazio,SA,HOME_WIN,verified,1.9,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.57, market close 1.49 - originally WIN at 1.90"
 115,2026-05-17,Como,Parma,SA,UNDER25,verified,2.1,1.0,WIN,1.1,
-116,2026-05-17,Genoa,Milan,SA,UNDER25,verified,2.1,1.0,LOSS,-1.0,
+116,2026-05-17,Genoa,Milan,SA,UNDER25,verified,2.1,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.91, market close 1.69 - originally LOSS at 2.10"
 117,2026-05-17,Juventus,Fiorentina,SA,UNDER25,verified,2.1,1.0,WIN,1.1,
-118,2026-05-17,Pisa,SSC Napoli,SA,AWAY_WIN,verified,2.55,1.0,WIN,1.55,
+118,2026-05-17,Pisa,SSC Napoli,SA,AWAY_WIN,verified,2.55,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.44, market close 1.40 - originally WIN at 2.55"
 119,2026-05-17,Manchester United,Nottingham Forest,PL,OVER25,pre_audit,,1.0,WIN,0.8,
-120,2026-05-17,PSV Eindhoven,FC Twente,DED,OVER25,verified,1.72,1.0,WIN,0.72,
+120,2026-05-17,PSV Eindhoven,FC Twente,DED,OVER25,verified,1.72,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.33, market close 1.24 - originally WIN at 1.72"
 121,2026-05-17,Sparta Rotterdam,Excelsior,DED,OVER25,pre_audit,,1.0,WIN,0.8,
-122,2026-05-17,AZ Alkmaar,NAC Breda,DED,HOME_WIN,verified,1.81,1.0,LOSS,-1.0,
+122,2026-05-17,AZ Alkmaar,NAC Breda,DED,HOME_WIN,verified,1.81,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.38, market close 1.28 - originally LOSS at 1.81"
 123,2026-05-17,Inter,Hellas Verona,SA,HOME_WIN,verified,1.9,1.0,LOSS,-1.0,
 124,2026-05-17,Chelsea,Tottenham Hotspur,PL,AWAY_WIN,verified,3.65,1.0,LOSS,-1.0,
 125,2026-05-17,Leeds United,Brighton & Hove Albion,PL,HOME_WIN,verified,2.76,1.0,WIN,1.76,
@@ -87,23 +87,23 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 127,2026-05-17,Newcastle United,West Ham United,PL,HOME_WIN,verified,2.03,1.0,WIN,1.03,
 128,2026-05-17,Atlético Madrid,Girona FC,PD,HOME_WIN,pre_audit,,1.0,WIN,0.85,
 129,2026-05-17,Sevilla,Real Madrid,PD,HOME_WIN,verified,2.39,1.0,LOSS,-1.0,
-130,2026-05-17,Elche,Getafe,PD,HOME_WIN,verified,3.03,1.0,WIN,2.03,
-131,2026-05-17,Osasuna,Espanyol,PD,UNDER25,verified,2.1,1.0,LOSS,-1.0,
+130,2026-05-17,Elche,Getafe,PD,HOME_WIN,verified,3.03,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.40, market close 2.30 - originally WIN at 3.03"
+131,2026-05-17,Osasuna,Espanyol,PD,UNDER25,verified,2.1,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.73, market close 1.59 - originally LOSS at 2.10"
 132,2026-05-17,Real Oviedo,Deportivo Alavés,PD,BTTS,verified,1.9,1.0,LOSS,-1.0,
-133,2026-05-17,Real Sociedad,Valencia,PD,UNDER25,verified,2.1,1.0,LOSS,-1.0,
-134,2026-05-17,Udinese,Cremonese,SA,HOME_WIN,verified,4.02,1.0,LOSS,-1.0,
-135,2026-05-17,Cagliari,Torino,SA,HOME_WIN,verified,3.49,1.0,WIN,2.49,
-136,2026-05-17,Sassuolo,Lecce,SA,UNDER25,verified,2.1,1.0,LOSS,-1.0,
+133,2026-05-17,Real Sociedad,Valencia,PD,UNDER25,verified,2.1,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.95, market close 1.85 - originally LOSS at 2.10"
+134,2026-05-17,Udinese,Cremonese,SA,HOME_WIN,verified,4.02,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.45, market close 2.37 - originally LOSS at 4.02"
+135,2026-05-17,Cagliari,Torino,SA,HOME_WIN,verified,3.49,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.45, market close 2.16 - originally WIN at 3.49"
+136,2026-05-17,Sassuolo,Lecce,SA,UNDER25,verified,2.1,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.80, market close 1.75 - originally LOSS at 2.10"
 137,2026-05-17,Lorient,Le Havre,FL1,OVER25,pre_audit,,1.0,LOSS,-1.0,
 138,2026-05-17,Olympique de Marseille,Stade Rennais,FL1,HOME_WIN,verified,1.9,1.0,WIN,0.9,
-139,2026-05-17,RC Strasbourg,AS Monaco,FL1,AWAY_WIN,verified,2.55,1.0,LOSS,-1.0,
+139,2026-05-17,RC Strasbourg,AS Monaco,FL1,AWAY_WIN,verified,2.55,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.20, market close 1.93 - originally LOSS at 2.55"
 140,2026-05-17,Paris FC,Paris Saint-Germain,FL1,HOME_WIN,verified,2.99,1.0,WIN,1.99,
 141,2026-05-17,Stade Brestois,Angers,FL1,HOME_WIN,verified,1.9,1.0,LOSS,-1.0,
-142,2026-05-18,Arsenal,Burnley,PL,HOME_WIN,verified,1.46,1.0,WIN,0.46,
+142,2026-05-18,Arsenal,Burnley,PL,HOME_WIN,verified,1.46,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.12, market close 1.09 - originally WIN at 1.46"
 143,2026-05-19,Chelsea,Tottenham Hotspur,PL,AWAY_WIN,verified,3.65,1.0,EXCLUDED,,"EXCLUDED: pre-real-odds beta (no odds_source) | Duplicate entry of selection #124 (same fixture, market, odds). Voided for record integrity — loss already counted once."
 144,2026-05-21,FC Utrecht,SC Heerenveen,DED,AWAY_WIN,verified,2.45,1.0,LOSS,-1.0,
 145,2026-05-22,Fiorentina,Atalanta,SA,UNDER25,verified,2.1,1.0,WIN,1.1,
-146,2026-05-23,Mallorca,Real Oviedo,PD,HOME_WIN,verified,2.92,1.0,WIN,1.92,
+146,2026-05-23,Mallorca,Real Oviedo,PD,HOME_WIN,verified,2.92,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.50, market close 1.45 - originally WIN at 2.92"
 147,2026-05-23,Real Betis,Levante UD,PD,HOME_WIN,verified,2.03,1.0,WIN,1.03,
 148,2026-05-23,Real Madrid,Athletic Club,PD,HOME_WIN,verified,1.36,1.0,WIN,0.36,
 149,2026-05-23,FC Tulsa,Hartford Athletic,PL,HOME_WIN,verified,1.95,1.0,EXCLUDED,,EXCLUDED: dev/test session artifact — not a live pick
@@ -155,18 +155,18 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 195,2026-05-24,AFC Ajax,FC Utrecht,DED,HOME_WIN,verified,1.9,1.0,LOSS,-1.0,
 196,2026-05-24,Tottenham Hotspur,Everton,PL,OVER25,pre_audit,,1.0,LOSS,-1.0,
 197,2026-05-24,Crystal Palace,Arsenal,PL,AWAY_WIN,verified,1.88,1.0,WIN,0.88,
-198,2026-05-24,West Ham United,Leeds United,PL,HOME_WIN,verified,3.3,1.0,WIN,2.3,
+198,2026-05-24,West Ham United,Leeds United,PL,HOME_WIN,verified,3.3,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.88, market close 1.70 - originally WIN at 3.30"
 199,2026-05-24,Fulham,Newcastle United,PL,HOME_WIN,verified,2.4,1.0,WIN,1.4,
-200,2026-05-24,Nottingham Forest,Bournemouth,PL,AWAY_WIN,verified,3.37,1.0,LOSS,-1.0,
-201,2026-05-24,Liverpool FC,Brentford,PL,HOME_WIN,verified,1.95,1.0,LOSS,-1.0,
+200,2026-05-24,Nottingham Forest,Bournemouth,PL,AWAY_WIN,verified,3.37,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.10, market close 1.96 - originally LOSS at 3.37"
+201,2026-05-24,Liverpool FC,Brentford,PL,HOME_WIN,verified,1.95,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.84, market close 1.77 - originally LOSS at 1.95"
 202,2026-05-24,Manchester City,Aston Villa,PL,HOME_WIN,verified,1.4,1.0,LOSS,-1.0,
-203,2026-05-24,Sunderland,Chelsea,PL,AWAY_WIN,verified,2.81,1.0,LOSS,-1.0,
-204,2026-05-24,SSC Napoli,Udinese,SA,HOME_WIN,verified,1.9,1.0,WIN,0.9,
+203,2026-05-24,Sunderland,Chelsea,PL,AWAY_WIN,verified,2.81,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 2.05, market close 2.03 - originally LOSS at 2.81"
+204,2026-05-24,SSC Napoli,Udinese,SA,HOME_WIN,verified,1.9,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.55, market close 1.51 - originally WIN at 1.90"
 205,2026-05-24,Milan,Cagliari,SA,AWAY_WIN,verified,5.69,1.0,WIN,4.69,
 206,2026-05-24,Torino,Juventus,SA,UNDER25,verified,2.1,1.0,LOSS,-1.0,
-207,2026-05-24,Cremonese,Como,SA,AWAY_WIN,verified,2.23,1.0,WIN,1.23,
-208,2026-05-24,Hellas Verona,AS Roma,SA,AWAY_WIN,verified,2.55,1.0,WIN,1.55,
-209,2026-05-24,Lecce,Genoa,SA,UNDER25,verified,2.1,1.0,WIN,1.1,
+207,2026-05-24,Cremonese,Como,SA,AWAY_WIN,verified,2.23,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.60, market close 1.53 - originally WIN at 2.23"
+208,2026-05-24,Hellas Verona,AS Roma,SA,AWAY_WIN,verified,2.55,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.37, market close 1.32 - originally WIN at 2.55"
+209,2026-05-24,Lecce,Genoa,SA,UNDER25,verified,2.1,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 1.62, market close 1.47 - originally WIN at 2.10"
 210,2026-05-24,Parma,Sassuolo,SA,UNDER25,verified,2.1,1.0,WIN,1.1,
 211,2026-05-25,SC Paderborn 07,VfL Wolfsburg,BL1,AWAY_WIN,verified,2.45,1.0,LOSS,-1.0,
 212,2026-05-29,Nice,Saint-Étienne,FL1,OVER25,pre_audit,,1.0,WIN,0.8,
@@ -477,7 +477,7 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 545,2026-10-24,Dundee United,Aberdeen,SPL,HOME_WIN,verified,2.12,1.0,WIN,1.12,
 546,2026-10-24,Queens Park Rangers,Swansea City,ELC,AWAY_WIN,verified,2.77,1.0,LOSS,-1.0,
 547,2026-10-24,Cardiff City,Birmingham City,ELC,AWAY_WIN,verified,2.37,1.0,LOSS,-1.0,
-548,2026-10-24,CF Estrela Amadora,Casa Pia,PPL,AWAY_WIN,verified,5.04,1.0,WIN,4.04,
+548,2026-10-24,CF Estrela Amadora,Casa Pia,PPL,AWAY_WIN,verified,5.04,1.0,EXCLUDED,,"EXCLUDED: recorded price above the best price any bookmaker offered (independent Football-Data.co.uk check, 7 Nov 2026). Best available 4.75, market close 4.23 - originally WIN at 5.04"
 549,2026-10-24,Atlético Madrid,Deportivo de A Coruña,PD,HOME_WIN,stats,,1.0,WIN,0.0,
 550,2026-10-25,Inter,Fiorentina,SA,HOME_WIN,verified,1.34,1.0,WIN,0.34,
 551,2026-10-25,Hibernian,Celtic,SPL,AWAY_WIN,verified,1.57,1.0,WIN,0.57,
@@ -546,3 +546,19 @@ id,date,home,away,league,market,price_type,price,stake,status,profit,note
 614,2026-11-05,FC Twente,Pafos FC,UECL,HOME_WIN,stats,,1.0,WIN,0.0,
 615,2026-11-05,FC Lugano,FK Kauno Žalgiris,UECL,AWAY_WIN,stats,,1.0,LOSS,0.0,
 616,2026-11-05,AC Milan,Ferencváros TC,UEL,UNDER35,verified,1.68,1.0,WIN,0.68,
+617,2026-11-07,Cagliari,Frosinone,SA,HOME_WIN,stats,,1.0,PENDING,,
+618,2026-11-07,RB Leipzig,FC Augsburg,BL1,OVER25,stats,,1.0,PENDING,,
+619,2026-11-07,1. FSV Mainz 05,FC Bayern München,BL1,OVER25,stats,,1.0,PENDING,,
+620,2026-11-07,Watford,Middlesbrough,ELC,OVER25,stats,,1.0,PENDING,,
+621,2026-11-07,Preston North End,Southampton,ELC,AWAY_WIN,stats,,1.0,PENDING,,
+622,2026-11-07,Cardiff City,Burnley,ELC,OVER25,stats,,1.0,PENDING,,
+623,2026-11-07,Dundee United,Motherwell,SPL,HOME_WIN,stats,,1.0,PENDING,,
+624,2026-11-07,Göztepe,Başakşehir FK,TUR,HOME_WIN,stats,,1.0,PENDING,,
+625,2026-11-07,Nottingham Forest,Manchester City,PL,AWAY_WIN,stats,,1.0,PENDING,,
+626,2026-11-07,VfB Stuttgart,SV Werder Bremen,BL1,OVER25,stats,,1.0,PENDING,,
+627,2026-11-07,FC Alverca,Casa Pia,PPL,AWAY_WIN,stats,,1.0,PENDING,,
+628,2026-11-07,AS Roma,Sassuolo,SA,HOME_WIN,stats,,1.0,PENDING,,
+629,2026-11-07,Royal Antwerp FC,Lommel SK,BEL,HOME_WIN,stats,,1.0,PENDING,,
+630,2026-11-07,RAAL La Louvière,Cercle Brugge,BEL,OVER25,stats,,1.0,PENDING,,
+631,2026-11-07,Valencia,Real Madrid,PD,OVER25,stats,,1.0,PENDING,,
+632,2026-11-07,Sporting CP,Moreirense,PPL,HOME_WIN,stats,,1.0,PENDING,,
